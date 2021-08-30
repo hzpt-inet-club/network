@@ -37,4 +37,4 @@
 
   *图1 ECS产品架构*
 
-  <image src="images/1.png">
+  ![图片](images/1.png)
