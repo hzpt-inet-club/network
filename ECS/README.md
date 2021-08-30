@@ -36,5 +36,4 @@
 - 云备份（Cloud Backup and Recovery，CBR）提供对云硬盘和弹性云服务器的备份保护服务，支持基于快照技术的备份服务，并支持利用备份数据恢复服务器和磁盘的数据。
 
   *图1 ECS产品架构*
-
-  <image src="images/1.png">
+  ![图片](images/1.png)
